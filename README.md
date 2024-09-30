@@ -1,4 +1,4 @@
 # hello-world
 
-Hi, Im mamamtha
+Hi, Im mamatha
 its nice to meet you all.
